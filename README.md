@@ -1,4 +1,10 @@
 # Football Match Outcome Prediction using Machine Learning
+> End-to-end machine learning project for multiclass football match outcome prediction using historical performance and pre-match features.
+> 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E)
+
 
 Machine learning project focused on predicting football match outcomes using historical and pre-match data.
 
