@@ -34,6 +34,14 @@ The project also explores the complete machine learning workflow, from data prep
 
 The project uses historical football match data obtained from a web source.
 
+
+The model was trained using historical football match data obtained from an external web source.
+
+> **Note:** The `data/dataset.csv` file included in this repository is **not the original dataset used for training**. It is a small representative sample provided only to demonstrate the dataset structure and feature format.
+>
+> The original dataset is not publicly distributed in this repository.
+
+
 The dataset contains information used to estimate the outcome of a match. The target variable is `Victoria`, with three possible classes:
 
 ```text
