@@ -265,8 +265,8 @@ Football-Match-Outcome-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/gabi71299/Football-Match-Outcome-Prediction.git
-cd Football-Match-Outcome-Prediction
+git clone https://github.com/gabi71299/Football-Match-Outcome-Prediction-using-Machine-Learning.git
+cd Football-Match-Outcome-Prediction-using-Machine-Learning
 ```
 
 Install the required dependencies:
