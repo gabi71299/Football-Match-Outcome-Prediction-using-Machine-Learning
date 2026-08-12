@@ -335,4 +335,5 @@ Potential future improvements include:
 
 **Gabriela Alonso Úbeda**
 
-GitHub: https://github.com/gabi71299
+LinkedIN: www.linkedin.com/in/gabriela-alonso-úbeda
+
